@@ -39,6 +39,8 @@ After it's done, you can repeat the procedure for emuMMC.
 
 **Do not switch in-between SYS, EMU and anything else without finishing the 2 charging cycles.** Always be careful when rebooting until done.
 
+If the process was done wrong, you will need to start from scratch (sys or emu or both if a boot on both occured).
+
 
 ## Disclaimer:
 
@@ -46,4 +48,4 @@ No support is provided for that app at all. Use it at your own discretion!
 
 This app **is not to be included** in packs, app stores, etc. It is a specialized app that must only run if user has real issues with capacity full and percentage.
 
-Easiest way to identify the issue is random up/downs on battery percentage and the capacity now not matching voltage avg/oc.
+Easiest way to identify the issue is random up/downs on battery percentage and the 'capacity now' not matching voltage avg/oc.
